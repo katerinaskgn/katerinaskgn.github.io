@@ -13,9 +13,9 @@
   }
 
   body {
-    background-color: beige; /* set the background color here */
-    color: black; /* set the text color to black here */
-    font-family: Arial, Helvetica, sans-serif;  /* set the font here */
+    backgroung-color: beige;/* set the background color here */
+    color: black;/* set the text color to black here */
+    font-family: Arial, Helvetica, sans-serif; /* set the font here */
     text-align: center; /* set the text alignment here */
    }
 
@@ -31,7 +31,6 @@
 
   h2 {
     color: #075AAB; /* set the text color of to #075AAB here */
-    /* set both the bottom margin and top margin to 2.5rem here */
     margin-bottom: 2.5rem;
     margin-top: 2.5rem;
    }
